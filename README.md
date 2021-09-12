@@ -1,10 +1,10 @@
 # 2d-incremental-game-mod
 
-Modified
+**Modified**
 - Cute Cat Theme
 - Add BGM and SFX
 
-New Feature
+**New Feature**
 - Store, where you can buy items for cute kitten
 
 
